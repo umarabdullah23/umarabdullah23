@@ -12,7 +12,5 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 - 🔭 I’m currently working on this page. 
 
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
-
 
 
