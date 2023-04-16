@@ -10,7 +10,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 * ⚛ React
 * 💻 HTML, CSS, JS
 
-- 🔭 I’m currently working on this page. 
 
 
 
