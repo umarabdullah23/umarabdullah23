@@ -1,5 +1,5 @@
-# Adrian Twarog
-####I am a Javascript and React Js Developer
+# Umar Abdullah
+I am a Javascript and React Js Developer
 
 
 ![I am a Javascript and React Js Developer](https://www.openxcell.com/wp-content/uploads/2021/12/What-is-ReactJS-1.svg)
