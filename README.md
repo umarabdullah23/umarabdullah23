@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🤖 **AI-augmented developer** — I ship faster with Claude Code, Copilot & Cursor
+- 🤖 **AI-augmented developer** — I ship faster with Claude Code, MCP Tools & Playwright
 - 🔭 Full Stack Developer with **4+ years** of experience
 - ⚡ Building production apps used by **Binance, ONDO** & global clients
 - 🌍 Working with international teams from **Pakistan**
