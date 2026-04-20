@@ -1,7 +1,10 @@
 <h1 align="center">Hey 👋 I'm Umar Abdullah</h1>
-<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Clean Code</h3>
+<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Clean Code Obsessed</h3>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/umarabdullah23?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white&label=GitHub%20Stars" alt="stars" />
+  <!-- <img src="https://img.shields.io/github/followers/umarabdullah23?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white&label=Followers" alt="followers" /> -->
+</p>
 
 ### 🧑‍💻 About Me
 
@@ -11,7 +14,7 @@
 - 🌍 Working with international teams from **Pakistan**
 - 🎯 Focused on clean code, performance & great UX
 
----
+<br>
 
 ### 🛠️ Tech Stack
 
@@ -43,6 +46,8 @@
 ![Claude](https://img.shields.io/badge/Claude-0d1117?style=flat-square&logo=claude&logoColor=D97757)
 ![MCP](https://img.shields.io/badge/MCP_Tools-0d1117?style=flat-square&logo=anthropic&logoColor=D97757)
 ![Figma](https://img.shields.io/badge/Figma_MCP-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Stitch](https://img.shields.io/badge/🧵_Stitch-0d1117?style=flat-square)
+![Webflow](https://img.shields.io/badge/Webflow-0d1117?style=flat-square&logo=webflow&logoColor=4353FF)
 
 **Tools**
 
@@ -53,7 +58,7 @@
 
 </div>
 
----
+<br>
 
 ### 🔥 GitHub Contributions
 
@@ -61,7 +66,7 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=umarabdullah23&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<br>
 
 ### 🤝 Connect
 
