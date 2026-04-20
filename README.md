@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Umar Abdullah</h1>
-<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Clean Code Obsessed</h3>
+<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Production-Ready Systems</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/umarabdullah23?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white&label=GitHub%20Stars" alt="stars" />
