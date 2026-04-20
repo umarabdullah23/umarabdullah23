@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Umar Abdullah</h1>
-<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Clean Code Obsessed</h3>
+<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Clean Code</h3>
 
 ---
 
