@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Umar Abdullah</h1>
-<h3 align="center">Full Stack Engineer | MERN · Next.js · TypeScript | AI-Driven Development | Scalable Web Apps | Production-Ready Systems</h3>
+<h3 align="center">Frontend Developer | React · Next.js · TypeScript | Pixel-Perfect UI · Responsive Design | AI-Driven Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/umarabdullah23?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white&label=GitHub%20Stars" alt="stars" />
@@ -9,10 +9,10 @@
 ### 🧑‍💻 About Me
 
 - 🤖 **AI-augmented developer** — I ship faster with Claude Code, MCP Tools & Playwright
-- 🔭 Full Stack Developer with **4+ years** of experience
-- ⚡ Building production apps used by **Binance, ONDO** & global clients
+- 🔭 Frontend Developer with **4+ years** of experience
+- ⚡ Building polished UIs used by **Binance, ONDO** & global clients
 - 🌍 Working with international teams from **Pakistan**
-- 🎯 Focused on clean code, performance & great UX
+- 🎯 Focused on pixel-perfect interfaces, performance & great UX
 
 <br>
 
@@ -20,23 +20,23 @@
 
 <div align="center">
 
-**Frontend**
+**Core**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![React Native](https://img.shields.io/badge/React_Native-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=06B6D4)
 ![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 
-**Backend**
+**UI & Testing**
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Cypress](https://img.shields.io/badge/Cypress-0d1117?style=flat-square&logo=cypress&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-0d1117?style=flat-square&logo=storybook&logoColor=FF4785)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+![Accessibility](https://img.shields.io/badge/Accessibility-0d1117?style=flat-square&logo=accessibility&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
 
 **AI & Automation**
