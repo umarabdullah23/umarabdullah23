@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Umar Abdullah</h1>
-<h3 align="center">Frontend Developer | React · Next.js · TypeScript | Pixel-Perfect UI · Responsive Design | AI-Driven Development</h3>
+<h3 align="center">Senior Frontend Engineer | React · Next.js · TypeScript | Pixel-Perfect UI · Responsive Design | AI-Driven Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/umarabdullah23?style=for-the-badge&color=1a1b27&labelColor=1a1b27&logo=github&logoColor=white&label=GitHub%20Stars" alt="stars" />
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🤖 **AI-augmented developer** — I ship faster with Claude Code, MCP Tools & Playwright
-- 🔭 Frontend Developer with **4+ years** of experience
+- 🔭 Senior Frontend Engineer with **4+ years** of experience
 - ⚡ Building polished UIs used by **Binance, ONDO** & global clients
 - 🌍 Working with international teams from **Pakistan**
 - 🎯 Focused on pixel-perfect interfaces, performance & great UX
